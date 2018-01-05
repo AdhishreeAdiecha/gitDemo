@@ -16,6 +16,6 @@ public class Sum {
         System.out.println("Subn = "+d);
         System.out.println("Multi = "+e);
         System.out.println("Divi = "+f);
-        System.out.println("Your simple calc is ready...");
+        System.out.println("Your simple calc is ready....");
     }
 }
